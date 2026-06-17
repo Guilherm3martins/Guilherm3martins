@@ -10,9 +10,9 @@ I am a 2nd-year **Computer Engineering student** at the *Universidade Autónoma 
 - 🤝 Always open to collaborate on tech projects and social impact initiatives.
 
 #### 🛠️ Tech Stack & Tools
-**Languages:** Java, Assembly  
+**Languages:** Java, C  
 **Areas of Interest:** Data Analysis, Backend Development, Process Optimization  
-**Tools & OS:** Git, Linux 
+**Tools & OS:** Git, Linux, windows
 
 #### 📫 Let's Connect!
 - LinkedIn : www.linkedin.com/in/guilhermemartins01
